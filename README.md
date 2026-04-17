@@ -9,7 +9,7 @@ vedikamanjarekar
 - 👯 I’m looking to collaborate on beginner friendly projects and data related work
 - 🤔 I’m looking for help with improving my data analysis skills and building real-world projects
 - 💬 Ask me about sql,basic python,and small projects
-- 📫 How to reach me: (Email-aditimanjarekar2@gmail.com/Linkedin-vedikamanjarekar/loginsignup)
+- 📫 How to reach me: (Email-aditimanjarekar2@gmail.com/Linkedin-https://www.linkedin.com/in/vedika-manjarekar-692902398?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy combining logic(coding) with creativity(dance)
 
