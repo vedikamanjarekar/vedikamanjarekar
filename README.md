@@ -5,12 +5,12 @@ Vedika Manjarekar
 
 
 
-- 🌱 I’m currently learning python and sql
-- 👯 I’m looking to collaborate on beginner friendly projects and data related work
-- 🤔 I’m looking for help with improving my data analysis skills and building real-world projects
-- 💬 Ask me about sql,basic python,and small projects
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy combining logic(coding) with creativity(dance)
+-  I’m currently learning python and sql
+-  I’m looking to collaborate on beginner friendly projects and data related work
+-  I’m looking for help with improving my data analysis skills and building real-world projects
+-  Ask me about sql,basic python,and small projects
+-  Pronouns: She/Her
+-  Fun fact: I enjoy combining logic(coding) with creativity(dance)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditimanjarekar2@gmail.com)
