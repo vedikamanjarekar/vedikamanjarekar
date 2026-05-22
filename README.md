@@ -1,7 +1,7 @@
-## Hi👋
+## Hello👋
 
 
-Vedika Manjarekar
+I'm Vedika Manjarekar!
 
 
 
