@@ -10,7 +10,7 @@ I'm Vedika Manjarekar!
 -  I’m looking for help with improving my data analysis skills and building real-world projects
 -  Ask me about sql,basic python,and small projects
 -  Pronouns: She/Her
--  Fun fact: I enjoy combining logic(coding) with creativity(dance)
+-  Fun fact: I enjoy combining logic with creativity
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditimanjarekar2@gmail.com)
